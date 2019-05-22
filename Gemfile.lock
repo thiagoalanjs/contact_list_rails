@@ -89,6 +89,13 @@ GEM
     io-like (0.3.0)
     jbuilder (2.9.1)
       activesupport (>= 4.2.0)
+<<<<<<< HEAD
+=======
+    jquery-rails (4.3.3)
+      rails-dom-testing (>= 1, < 3)
+      railties (>= 4.2.0)
+      thor (>= 0.14, < 2.0)
+>>>>>>> 636376eb6325e3caa52220c91f8c2e974c1905bb
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -133,6 +140,11 @@ GEM
       nokogiri (>= 1.6)
     rails-html-sanitizer (1.0.4)
       loofah (~> 2.2, >= 2.2.2)
+<<<<<<< HEAD
+=======
+    rails-ujs (0.1.0)
+      railties (>= 3.1)
+>>>>>>> 636376eb6325e3caa52220c91f8c2e974c1905bb
     railties (5.2.3)
       actionpack (= 5.2.3)
       activesupport (= 5.2.3)
@@ -204,10 +216,18 @@ DEPENDENCIES
   chromedriver-helper
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
+<<<<<<< HEAD
+=======
+  jquery-rails
+>>>>>>> 636376eb6325e3caa52220c91f8c2e974c1905bb
   listen (>= 3.0.5, < 3.2)
   mysql2 (>= 0.4.4, < 0.6.0)
   puma (~> 3.11)
   rails (~> 5.2.3)
+<<<<<<< HEAD
+=======
+  rails-ujs (~> 0.1.0)
+>>>>>>> 636376eb6325e3caa52220c91f8c2e974c1905bb
   sass-rails (~> 5.0)
   selenium-webdriver
   spring
@@ -217,8 +237,11 @@ DEPENDENCIES
   uglifier (>= 1.3.0)
   web-console (>= 3.3.0)
 
+<<<<<<< HEAD
 RUBY VERSION
    ruby 2.4.2p198
 
+=======
+>>>>>>> 636376eb6325e3caa52220c91f8c2e974c1905bb
 BUNDLED WITH
    2.0.1

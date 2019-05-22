@@ -1,5 +1,5 @@
 class StaticPagesController < ApplicationController
     def index
-        @nome = "Teste Somos Educação"
+        @nome = "Thiago"
     end
 end
