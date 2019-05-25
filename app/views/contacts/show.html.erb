@@ -1,0 +1,13 @@
+
+<p>
+  <strong>Nome:</strong>
+  <%= @contact.name %>
+</p>
+
+<p>
+  <strong>Fone:</strong>
+  <%= @contact.phone %>
+</p>
+
+<%= link_to 'Editar', edit_contact_path(@contact),  class: 'btn btn-primary' %> 
+<%= link_to 'Voltar', contacts_path,  class: 'btn btn-primary'  %>
